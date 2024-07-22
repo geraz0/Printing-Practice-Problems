@@ -1,5 +1,6 @@
 public class HiFriend {
     public static void main(String[] args) {
-        System.out.println("Hi Alex Canady!");
+        String friendName = "Alex Canady";
+        System.out.println("Hi " + friendName + "!");
     }
 }
